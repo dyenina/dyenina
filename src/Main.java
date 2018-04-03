@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Hello World2");
         System.out.println("Hello World3 local");
+        System.out.println("Hello World3 GitHub");
     }
 }
 
